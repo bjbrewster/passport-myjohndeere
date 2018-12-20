@@ -1,0 +1,35 @@
+{
+  "name": "passport-myjohndeere",
+  "version": "1.0.0",
+  "description": "MyJohnDeere authentication strategy for Passport",
+  "keywords": [
+    "passport",
+    "myjohndeere",
+    "johndeere",
+    "deere",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "Brendan Brewster",
+    "email": "bjbrewster@gmail.com",
+    "url": "https://github.com/bjbrewster"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bjbrewster/passport-myjohndeere.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bjbrewster/passport-myjohndeere/issues"
+  },
+  "license": "MIT",
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth1": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  }
+}
